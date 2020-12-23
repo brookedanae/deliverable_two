@@ -39,7 +39,7 @@ namespace Deliverable_2
                 {
                     Console.WriteLine("Tails!");
                 }
-                if (result == headsOrTailsGuessInt)
+                foreach (int result in headsOrTailsGuess)
                 {
                     Console.WriteLine(result + correctCount);
                 }
