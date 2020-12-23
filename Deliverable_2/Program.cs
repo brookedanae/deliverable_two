@@ -14,7 +14,7 @@ namespace Deliverable_2
         {
             Console.Write("Guess which will have more: heads or tails? ");
             string headsOrTailsGuess = Console.ReadLine() + "\n";
-            int headsOrTailsGuessInt = int.Parse(headsOrTailsGuess);
+  
 
             Console.Write("\n" + "How many times shall we flip a coin? ");
             int numberOfFlips = int.Parse(Console.ReadLine() + "\n");
