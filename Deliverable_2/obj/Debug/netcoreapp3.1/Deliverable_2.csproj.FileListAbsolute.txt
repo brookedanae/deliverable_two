@@ -1,0 +1,16 @@
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.csprojAssemblyReference.cache
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.AssemblyInfoInputs.cache
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.AssemblyInfo.cs
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.exe
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.deps.json
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.runtimeconfig.json
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.runtimeconfig.dev.json
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.dll
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\Deliverable_2.pdb
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.dll
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.pdb
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.genruntimeconfig.cache
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\StatsdClient.dll
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\bin\Debug\netcoreapp3.1\FizzWare.NBuilder.dll
+C:\Users\Brooke\source\repos\Deliverable_2\Deliverable_2\obj\Debug\netcoreapp3.1\Deliverable_2.csproj.CopyComplete
