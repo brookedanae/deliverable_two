@@ -12,18 +12,26 @@ namespace Deliverable_2
 
         // UserInput
         {
+            int choice;
             Console.Write("Guess which will have more: heads or tails? ");
-            string headsOrTailsGuess = Console.ReadLine() + "\n";
+            string headsOrTailsGuess = Console.ReadLine();
+            if (headsOrTailsGuess.ToLower().Trim() == "heads") {
+                choice = 0;
+            } else
+            {
+                choice = 1;
+            }
   
 
             Console.Write("\n" + "How many times shall we flip a coin? ");
-            int numberOfFlips = int.Parse(Console.ReadLine() + "\n");
+            int numberOfFlips = int.Parse(Console.ReadLine());
+            
 
 
             // Declare variables
             int correctCount = 0;
-            int Heads = 0;
-            int Tails = 1;
+            int heads = 0;
+            int tails = 1;
 
             Random rand = new Random();
 
@@ -35,28 +43,25 @@ namespace Deliverable_2
                 {
                     Console.WriteLine("Heads!");
                 } 
-                if (result == 1) 
+                else 
                 {
                     Console.WriteLine("Tails!");
                 }
-                foreach (int result in headsOrTailsGuess)
+                if (result == choice)
                 {
-                    Console.WriteLine(result + correctCount);
+                    correctCount++;
                 }
-
-
-
-
-
+ 
             }
+            Console.WriteLine("\n" + "Your guess, " + headsOrTailsGuess + ", came up " + correctCount + " time(s).");
+
+            var percentage = ((double)correctCount / numberOfFlips) * 100;
+
+            Console.WriteLine("That's " + percentage + "%.");
+
         }
-         
+        
 
-            
 
-             // Console.WriteLine("Your guess, " + headsOrTailsGuess + " came up " + correctCount + " time(s).");
-             // Console.WriteLine("That's + <percentage here> + ".");
-
-     
     }
 }
